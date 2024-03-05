@@ -1,26 +1,28 @@
 <p align="center">
-  <a href=https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao>
-    <img src="https://github.com/robsondejesus1996/SABOR-EXPRESS/assets/31260719/3bf57ca2-f73c-41cb-adab-f3d54787f8b3" alt="Python: crie a sua primeira aplicação">
+  <a href=https://cursos.alura.com.br/course/python-aplicando-orientacao-objetos>
+    <img src="https://github.com/robsondejesus1996/SABOR-EXPRESS-OO/assets/31260719/956fde2d-7b6b-456d-b1b9-dba5feb3b22a" alt="Python: aplicando a Orientação a Objetos">
   </a>
 </p>
 
 <hr>
 
-<p align="center">Esse projeto é utilizado no <a href="https://cursos.alura.com.br/course/python-crie-sua-primeira-aplicacao">Python: crie a sua primeira aplicação</a> e se trata de uma curso de desenvolvimento em Python básico. </p>
+<p align="center">Esse projeto é utilizado no <a href="https://cursos.alura.com.br/course/python-aplicando-orientacao-objetos">Python: aplicando a Orientação a Objetos</a> e se trata de uma curso de desenvolvimento em Python Orientado a Objetos. </p>
 
 ## Objetivos do projeto no curso
-* Crie um projeto em Python usando o VSCode
-* Descubra o fluxo de uma aplicação com o uso de condicionais e laços de repetição
-* Aprenda a utilizar blocos de controle de execução try-except
-* Crie funções para mostrar o menu principal e registrar restaurantes em listas e dicionários
+* Entenda a importância da Orientação a Objetos com Python
+* Descubra a importância de classes e atributos inspirado um projeto real
+* Utilize métodos estáticos e encapsulamento
+* Entenda como as propriedades como elas podem conter lógica adicional além de simplesmente acessar e atribuir valores
+* Compreenda como as classes no Python podem organizar e estruturar seu código de forma eficiente
+* Aprenda a usar o construtor para inicializar objetos e definir seus estados iniciais
 
 
 ## Aulas e tópicos abordados 
-* Manipulação de Strings
-* Módulos e funções
-* Lista, laços e exceções
-* Dicionários
-* Consolidando os conhecimentos
+* Classes
+* Construtor e instanciando objetos
+* Property e métodos de classes
+* Importando classe e composição
+* Consolidando os conhecimento
 
 
 
