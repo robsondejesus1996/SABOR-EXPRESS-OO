@@ -49,4 +49,19 @@ conta4 = ContaBancariaPythonica("Fernanda", 1500)
 print(f"titular da conta 4: {conta4.titular}")
 
 
+# 6) Crie uma classe chamada `ClienteBanco` com um construtor que aceita 5 atributos. Instancie 3 objetos desta classe e atribua valores aos seus atributos através do método construtor.
+class ClienteBanco:
+     def __init__(self, nome, idade, endereco, cpf, profissao):
+          self.nome = nome
+          self.idade = idade
+          self.endereco = endereco
+          self.cpf = cpf
+          self.profissao = profissao
+
+cliente1  = ClienteBanco("Ana", 30, "Rua a", "121212", "Programadora")          
+cliente2 = ClienteBanco("Maria", 53, "Rua M", "231423", "Melhor mãe do mundo")
+
+print(cliente2)
+
+
         
